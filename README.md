@@ -1,7 +1,8 @@
 
 ## 用applescript实现读取配置文件，选择登录的ssh 用户名与密码，实现自动终端登录 ##
 
-用Automoter 添加服务，运行shell ，
+用Automoter 添加服务，运行shell [shell内容](https://github.com/ios2016/mac-tools/blob/master/applescript/runShell.sh)
+
 设置启动快捷键，我这里用command+shift+0
 ![设置启动快捷键][1]
 
