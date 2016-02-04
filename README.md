@@ -210,6 +210,6 @@ exit 0
 
 
 
-  [1]: ./images/1454595761026.jpg "1454595761026.jpg"
-  [2]: ./images/1454596185616.jpg "1454596185616.jpg"
-  [3]: ./images/1454596328180.jpg "1454596328180.jpg"
+  [1]: https://github.com/ios2016/mac-tools/blob/master/doc/imgs/sshAuto/1454595761026.jpg "1454595761026.jpg"
+  [2]: https://github.com/ios2016/mac-tools/blob/master/doc/imgs/sshAuto//1454596185616.jpg "1454596185616.jpg"
+  [3]: https://github.com/ios2016/mac-tools/blob/master/doc/imgs/sshAuto//1454596328180.jpg "1454596328180.jpg"
